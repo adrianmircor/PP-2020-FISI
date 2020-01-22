@@ -1,0 +1,18 @@
+/*
+ * Name.cpp
+ *
+ *  Created on: 16 ene. 2020
+ *      Author: laboratorio-fisi
+ */
+
+#include "Name.h"
+
+Name::Name() {
+	// TODO Auto-generated constructor stub
+
+}
+
+Name::~Name() {
+	// TODO Auto-generated destructor stub
+}
+

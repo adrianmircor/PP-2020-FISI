@@ -1,0 +1,10 @@
+21:08:02 **** Incremental Build of configuration Debug for project Labo01_Punteros ****
+make all 
+Building target: Labo01_Punteros
+Invoking: GCC C++ Linker
+g++  -o "Labo01_Punteros"  ./src/Labo01_Punteros.o   
+Finished building target: Labo01_Punteros
+ 
+
+21:08:02 Build Finished (took 312ms)
+

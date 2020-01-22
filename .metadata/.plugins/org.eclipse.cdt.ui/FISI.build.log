@@ -1,0 +1,15 @@
+18:17:09 **** Build of configuration Debug for project FISI ****
+make all 
+Building file: ../src/FISI.c
+Invoking: GCC C Compiler
+mpicc -I/usr/lib/x86_64-linux-gnu/openmpi/include -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/FISI.d" -MT"src/FISI.o" -o "src/FISI.o" "../src/FISI.c"
+Finished building: ../src/FISI.c
+ 
+Building target: FISI
+Invoking: GCC C++ Linker
+mpicc -L/usr/lib/x86_64-linux-gnu/openmpi/lib -o "FISI"  ./src/FISI.o   -lmpi
+Finished building target: FISI
+ 
+
+18:17:09 Build Finished (took 606ms)
+

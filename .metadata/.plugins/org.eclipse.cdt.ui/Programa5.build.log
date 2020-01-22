@@ -1,0 +1,15 @@
+19:47:17 **** Incremental Build of configuration Debug for project Programa5 ****
+make all 
+Building file: ../src/Programa5.cpp
+Invoking: GCC C++ Compiler
+mpic++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Programa5.d" -MT"src/Programa5.o" -o "src/Programa5.o" "../src/Programa5.cpp"
+Finished building: ../src/Programa5.cpp
+ 
+Building target: Programa5
+Invoking: GCC C++ Linker
+mpic++  -o "Programa5"  ./src/Programa5.o   
+Finished building target: Programa5
+ 
+
+19:47:18 Build Finished (took 816ms)
+
